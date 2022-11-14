@@ -1,2 +1,2 @@
 # Scrapy_quotes
-Projeto de estudo na bibliotexa Scrapy.
+Projeto de estudo na biblioteca Scrapy.
