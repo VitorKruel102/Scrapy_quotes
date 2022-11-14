@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "scrapy-quotes"
+version = "0.1.0"
+description = ""
+authors = ["Vitor Kruel102 <vkruel.programador@gmail.com>"]
+readme = "README.md"
+packages = [{include = "scrapy_quotes"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Scrapy = "^2.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
